@@ -222,15 +222,3 @@ start coverage/html/index.html
 | DEF-IT-01 | userId передається явно в TrackingProvider | `tracking_screens.dart` |
 | DEF-ST-01 | Обробка DatabaseException при офлайн-запуску | `main.dart` |
 | DEF-ST-02 | weight >= 0 (не > 0) — BRL-10 | `database_helper.dart`, `tracking_provider` |
-
----
-
-## 🏗️ Наступні кроки розробки
-
-1. `flutter pub get` — завантажити залежності  
-2. Запустити на емуляторі (`flutter run`)  
-3. Перевірити реєстрацію та вхід  
-4. Протестувати каталог тренувань та фільтрацію  
-5. Додати `flutter_local_notifications` ініціалізацію в `main.dart`  
-6. Дослідити код тестів (`test/`) як приклад покриття бізнес-логіки
-7. Створити релізну збірку (`flutter build apk`)
