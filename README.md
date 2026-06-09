@@ -4,6 +4,14 @@
 Архітектура: **MVVM + Clean Architecture + Provider**.
 
 ---
+## 📲 Завантаження та встановлення
+
+Ви можете завантажити останню версію застосунку у розділі **Releases** GitHub.
+
+[⬇ Завантажити APK](https://github.com/IO-Codee/FitTrack/releases/download/v1.0.0/FitTrack_v1.0_release.apk)
+
+Детальна інструкція зі встановлення доступна тут:
+[📖 Інструкція зі встановлення](INSTALL.md)
 
 ## 🚀 Налаштування Flutter (з нуля)
 
